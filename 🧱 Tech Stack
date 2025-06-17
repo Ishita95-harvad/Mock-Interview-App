@@ -1,0 +1,8 @@
+🧱 Tech Stack
+
+| Feature        | Tech                                                |
+| -------------- | --------------------------------------------------- |
+| Frontend       | React (Vite/CRA)                                    |
+| Backend        | Firebase (Auth, Firestore, Storage, Hosting)        |
+| AI Integration | Google Gemini API (Pro model via Vertex AI or REST) |
+| Deployment     | Firebase Hosting                                    |
