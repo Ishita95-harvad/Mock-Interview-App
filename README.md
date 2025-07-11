@@ -1,6 +1,6 @@
 # Mock-Interview-App
-
-## **Purpose**: Help users practice and refine their interview skills through realistic simulations, AI-powered feedback, and interactive coaching.
+An AI-powered Performance Management System automates data collection, feedback analysis, and performance evaluation. By aggregating inputs from multiple sources—self-assessments, manager feedback, chat logs, meeting summaries, and psychometric insights—the system provides a holistic, unbiased, and data-driven performance report.
+### **Purpose**: Help users practice and refine their interview skills through realistic simulations, AI-powered feedback, and interactive coaching.
 Table of Contents
 1. Introduction to Agent-Led HR Workflows: The Shift
 2. Laying the Land
@@ -10,6 +10,7 @@ Table of Contents
 6. Upskilling & The Future of HR Teams
 7. The Future of HR Till 2030
 8. Closing & Next Steps
+
 - **Key Features**
 
 -**Role-Specific** Mock Interviews – Choose job roles and industries for targeted interview practice.
