@@ -1,7 +1,15 @@
 # Mock-Interview-App
 
 ## **Purpose**: Help users practice and refine their interview skills through realistic simulations, AI-powered feedback, and interactive coaching.
-
+Table of Contents
+1. Introduction to Agent-Led HR Workflows: The Shift
+2. Laying the Land
+3. Examples of Agent-Based HR Workflows  
+4. Implementation Times for HR Workflows
+5. Privacy & Security in Agentic HR Workflows
+6. Upskilling & The Future of HR Teams
+7. The Future of HR Till 2030
+8. Closing & Next Steps
 - **Key Features**
 
 -**Role-Specific** Mock Interviews – Choose job roles and industries for targeted interview practice.
