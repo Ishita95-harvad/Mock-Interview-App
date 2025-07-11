@@ -1,0 +1,7 @@
+Tech Stack
+LLMs: openAI, GPT4-0
+Data Sources: Google Forms/Spreadsheets, Slack, Zoom, HR platforms
+Vector Database: Qdrant
+Agent Framework: Lyzr Agent API
+Hosting: AWS
+Agents: Performance Report Analysis Agent, Slack Messages Analysis Agent, Zoom Meetings Analysis Agent, 1:1 Feedback Analysis Agent, Psychometric Analysis Agent, Employee Performance Analyst Agent, Review & Report Generator Agent 
